@@ -1,0 +1,643 @@
+ewtb.r.018465.5	make the	18 19	_	X
+ewtb.r.018465.5	make * appointment	18 20	X	~
+ewtb.r.190256.2	have a problem	2 3 4	_ _	X X
+ewtb.r.190256.2	have * problem	2 4	X	?
+ewtb.r.044427.4	have a problem	2 3 4	_ _	X X
+ewtb.r.044427.4	have * problem	2 4	X	?
+ewtb.r.285133.1	hair cut	13 14	~	X
+ewtb.r.285133.1	have * hair cut	11 13 14	X X	_ _
+ewtb.r.342807.4	i be * raise on this	3 4 6 7 8	~ ~ _ ~	X X X X
+ewtb.r.342807.4	i be * raise on this	4 6 7	X X	~ ~
+ewtb.r.279437.1	morse red line	7 8 9	~ _	X X
+ewtb.r.279437.1	red line	8 9	X	_
+ewtb.r.207629.2	go to	4 5	~	X
+ewtb.r.331662.6	keep * from	28 31	_	X
+ewtb.r.257735.1	waste * money	3 5	X	~
+ewtb.r.015148.5	i figure	12 13	X	?
+ewtb.r.135010.8	pay * attention to	1 3 4	_ ~	_ X
+ewtb.r.009943.2	experience * have	9 11	X	_
+ewtb.r.181771.6	keep say	28 29	~	?
+ewtb.r.022461.3	pleased with	4 5	X	?
+ewtb.r.319816.12	quite a bit	7 8 9	~ _	? _
+ewtb.r.374604.3	speak to	4 5	~	?
+ewtb.r.162422.18	come to	2 3	X	_
+ewtb.r.119026.3	give * the gift of	1 3 4 5	X X X	~ ~ ~
+ewtb.r.034501.5	fill with	7 8	_	~
+ewtb.r.382073.3	off of	14 15	X	_
+ewtb.r.359014.4	work on	2 3	X	~
+ewtb.r.288163.9	have to offer	20 21 22	~ ~	_ _
+ewtb.r.200429.2	yell at	7 8	X	~
+ewtb.r.351840.1	do * insurance	5 7	~	X
+ewtb.r.323449.7	look to	44 45	X	_
+ewtb.r.008635.4	a bit	2 3	X	_
+ewtb.r.251774.8	thank you	4 5	X	_
+ewtb.r.333243.12	have to say	29 30 31	~ ~	_ ~
+ewtb.r.180886.3	not only	4 5	X	_
+ewtb.r.006970.10	waste time	5 6	X	_
+ewtb.r.229442.3	happy with	14 15	X	?
+ewtb.r.071650.9	speak to	40 41	~	?
+ewtb.r.263630.3	in the middle of	8 9 10 11	X X X	_ _ _
+ewtb.r.243799.4	go back	4 5	X	?
+ewtb.r.044427.6	3 star	10 11	_	~
+ewtb.r.068009.1	criminal attorney	1 2	X	?
+ewtb.r.039856.7	plenty * to	5 9	~	X
+ewtb.r.272836.4	local business	8 9	X	?
+ewtb.r.317846.6	do * job	8 10	_	~
+ewtb.r.188382.2	the fact that	16 17 18	X X	_ _
+ewtb.r.131458.3	can be assure	11 12 13	X X	? _
+ewtb.r.162992.2	pleased with	3 4	_	?
+ewtb.r.007403.9	work with	9 10	X	~
+ewtb.r.183172.3	happy with	4 5	X	?
+ewtb.r.004574.6	come with	7 8	_	?
+ewtb.r.036753.9	you guy	6 7	X	_
+ewtb.r.111583.3	be about	3 4	_	X
+ewtb.r.068436.7	waste * money	11 13	X	~
+ewtb.r.345455.3	when it come to	16 17 18 19	X X X	_ _ _
+ewtb.r.385281.8	get * off	3 6	_	X
+ewtb.r.299148.2	felt like	4 5	X	?
+ewtb.r.101398.3	pleased with	13 14	_	?
+ewtb.r.376503.2	look at	37 38	X	?
+ewtb.r.361545.7	get * do	11 14	~	_
+ewtb.r.216456.10	do nothing	21 22	X	?
+ewtb.r.006970.1	nothing but	11 12	X	_
+ewtb.r.053248.8	that be say	1 2 3	X X	_ _
+ewtb.r.280340.6	less than	10 11	X	_
+ewtb.r.043020.8	look at	19 20	~	?
+ewtb.r.142081.4	come with	3 4	_	?
+ewtb.r.200957.2	take off	19 20	_	?
+ewtb.r.034501.2	a few	16 17	X	_
+ewtb.r.134617.4	daily special	8 9	X	?
+ewtb.r.260640.7	whether * or not	1 5 6	X X	? ?
+ewtb.r.018548.4	seem like	2 3	X	?
+ewtb.r.313825.4	a bit	13 14	X	_
+ewtb.r.077034.2	be make to	2 3 4	X X	_ _
+ewtb.r.069995.2	the willow lounge	3 4 5	X _	_ _
+ewtb.r.278775.6	the fact that	6 7 8	X X	_ _
+ewtb.r.376320.2	on business	6 7	X	_
+ewtb.r.272836.2	a ton	25 26	X	_
+ewtb.r.229480.8	have * option	17 20	_	X
+ewtb.r.127157.1	local business	8 9	_	?
+ewtb.r.331662.6	turn to	32 33	_	?
+ewtb.r.207629.2	highly recommend * to	15 16 18	X X	~ X
+ewtb.r.249889.2	compare to	5 6	~	_
+ewtb.r.035899.3	more than	4 5	X	?
+ewtb.r.240287.3	pleasantly surprised	4 5	X	~
+ewtb.r.338429.6	do * work	12 15	X	_
+ewtb.r.004940.8	so that	10 11	X	_
+ewtb.r.251755.2	in * life	14 17	~	X
+ewtb.r.251475.3	care * about	24 26	~	X
+ewtb.r.263630.6	not only	1 2	X	_
+ewtb.r.077213.3	not sure	1 2	~	X
+ewtb.r.317846.5	in town	19 20	X	_
+ewtb.r.333672.8	look to	4 5	X	_
+ewtb.r.126171.4	even if	16 17	X	?
+ewtb.r.217485.1	do * job	17 20	_	~
+ewtb.r.091704.4	put it	13 14	_	X
+ewtb.r.342811.12	at night	20 21	X	?
+ewtb.r.103878.2	think of	5 6	_	?
+ewtb.r.308088.4	look to	11 12	~	_
+ewtb.r.115653.4	to the point	7 8 9	X X	_ _
+ewtb.r.023620.2	even though	1 2	X	_
+ewtb.r.319816.6	quite a bit	15 16 17	_ _	? _
+ewtb.r.008585.6	on * way	16 18	X	_
+ewtb.r.346960.6	have time	3 4	X	?
+ewtb.r.206303.4	listen to	3 4	X	~
+ewtb.r.216456.6	a few	5 6	X	_
+ewtb.r.317594.5	comment on	13 14	~	?
+ewtb.r.326649.4	make sure	20 21	X	_
+ewtb.r.077298.1	have * experience	1 4	X	_
+ewtb.r.365154.4	speak to	5 6	X	?
+ewtb.r.121651.2	would like to thank	2 3 4 5	X X X	~ ~ ~
+ewtb.r.020851.5	go back	12 13	X	?
+ewtb.r.083454.2	even if	17 18	X	?
+ewtb.r.314974.6	be sure	1 2	_	X
+ewtb.r.247097.11	talk to	2 3	~	?
+ewtb.r.077298.2	interested in	4 5	_	?
+ewtb.r.364454.4	not only	1 2	X	_
+ewtb.r.070730.3	well worth it	26 27 28	X X	? _
+ewtb.r.183518.11	go to	5 6	~	X
+ewtb.r.095040.3	work with	2 3	X	~
+ewtb.r.234261.6	charge * for	5 7	_	X
+ewtb.r.153921.4	a little	4 5	X	_
+ewtb.r.201156.3	be into	16 17	X	_
+ewtb.r.225632.9	the point	1 2	X	_
+ewtb.r.128808.2	top quality	2 3	~	?
+ewtb.r.262722.8	the hilton	5 6	X	?
+ewtb.r.330966.6	wait for	11 12	~	?
+ewtb.r.091704.2	take * in	4 9	_	X
+ewtb.r.083459.1	interested in	7 8	_	?
+ewtb.r.107692.8	speak to	9 10	~	?
+ewtb.r.351727.3	mediocre at best	4 5 6	~ _	? _
+ewtb.r.366946.4	comment on	11 12	X	?
+ewtb.r.245160.4	interested in	4 5	_	?
+ewtb.r.011257.5	learn * about	8 10	~	X
+ewtb.r.397066.4	be * in	4 6	_	X
+ewtb.r.110441.13	have to say	2 3 4	_ _	_ ~
+ewtb.r.181748.6	come back	40 41	X	?
+ewtb.r.022533.2	even though	1 2	X	_
+ewtb.r.389498.3	have time	30 31	_	?
+ewtb.r.170650.2	have * problem	7 9	X	?
+ewtb.r.125629.1	a little	5 6	X	_
+ewtb.r.345455.3	look for	14 15	X	~
+ewtb.r.135800.7	bring * back	2 4	~	_
+ewtb.r.148566.1	good fun	1 2	X	?
+ewtb.r.114941.3	pizza place	5 6	X	?
+ewtb.r.016861.4	look for	9 10	X	~
+ewtb.r.086839.6	go in	2 3	_	?
+ewtb.r.018548.12	on campus	5 6	X	_
+ewtb.r.036133.6	a few	13 14	X	_
+ewtb.r.381455.6	have to offer	8 9 10	~ ~	_ _
+ewtb.r.217747.2	job * do	9 11	_	~
+ewtb.r.217359.7	on * occasions	6 9	X	?
+ewtb.r.376320.7	exceed * expectation	20 22	X	?
+ewtb.r.229410.12	work with	19 20	X	~
+ewtb.r.294812.2	come back	15 16	X	?
+ewtb.r.110441.9	look at	2 3	~	?
+ewtb.r.077213.1	mediocre at best	4 5 6	X _	? _
+ewtb.r.126171.6	even if	12 13	X	?
+ewtb.r.012047.3	know what * do	3 4 7	_ _	X X
+ewtb.r.094621.1	go through	5 6	X	_
+ewtb.r.313714.3	get * on the phone	3 6 7 8	~ _ _	? ? ?
+ewtb.r.211797.14	refer to	41 42	_	?
+ewtb.r.035726.5	even though	1 2	X	_
+ewtb.r.270502.4	go on	4 5	X	_
+ewtb.r.162253.2	on * menu	9 11	X	~
+ewtb.r.126171.3	disappointed with	16 17	_	?
+ewtb.r.085980.1	look for	10 11	_	~
+ewtb.r.385281.6	go back	9 10	X	?
+ewtb.r.200957.6	no one	10 11	X	_
+ewtb.r.180886.5	come from	1 2	X	?
+ewtb.r.281976.5	so that	15 16	X	_
+ewtb.r.094189.2	closing time	14 15	X	~
+ewtb.r.263630.6	even though	41 42	X	_
+ewtb.r.043020.8	speak to	10 11	X	?
+ewtb.r.351840.1	a couple	9 10	X	_
+ewtb.r.018465.17	work on	7 8	X	~
+ewtb.r.042416.1	go back	5 6	X	?
+ewtb.r.133981.3	have yet to	12 13 14	X X	_ _
+ewtb.r.280663.9	work for	16 17	~	X
+ewtb.r.036753.2	buy from	6 7	~	X
+ewtb.r.249123.2	each other	13 14	X	_
+ewtb.r.280844.3	talk to	5 6	X	?
+ewtb.r.125629.1	not only	11 12	X	_
+ewtb.r.131458.4	pleased with	5 6	X	?
+ewtb.r.160073.5	trust me	29 30	X	_
+ewtb.r.062167.6	couple with	17 18	_	~
+ewtb.r.351840.2	have * issue	4 7	X	_
+ewtb.r.043020.2	back in	11 12	X	~
+ewtb.r.376320.9	can be assure	13 14 15	_ _	? _
+ewtb.r.266955.1	german bedding	3 4	_	X
+ewtb.r.299148.5	look for	20 21	X	~
+ewtb.r.398243.7	compare to	14 15	X	_
+ewtb.r.026641.4	do a * job	16 17 20	_ _	~ ~
+ewtb.r.217359.3	be the * for you	15 16 18 19	~ ~ ~	? ? ?
+ewtb.r.156460.2	more than	9 10	_	?
+ewtb.r.101972.11	all kind	21 22	X	_
+ewtb.r.120992.1	make * feel	10 12	_	X
+ewtb.r.063963.1	waste * time	3 5	~	_
+ewtb.r.111583.1	go in	11 12	_	?
+ewtb.r.389298.4	highly recommend * to	2 3 6	~ ~	~ X
+ewtb.r.359014.5	have * to say	2 7 8	_ _	? ?
+ewtb.r.128636.4	wedding day	16 17	X	_
+ewtb.r.053248.23	pleased with	21 22	X	?
+ewtb.r.080178.5	a pleasure	10 11	X	?
+ewtb.r.202709.2	do * job	21 24	_	~
+ewtb.r.015573.2	these guy	4 5	~	X
+ewtb.r.164805.5	interested in	8 9	_	?
+ewtb.r.164805.4	go in	2 3	~	?
+ewtb.r.191666.5	come from	17 18	~	?
+ewtb.r.311987.6	put * on	14 16	_	X
+ewtb.r.241739.5	wait for	18 19	~	?
+ewtb.r.001325.1	highly recommend	1 2	X	~
+ewtb.r.332476.4	easy to work with	4 5 6 7	X X ~	? ? ~
+ewtb.r.029218.5	easy to work with	10 11 12 13	~ ~ ~	? ? ~
+ewtb.r.328828.2	make * appointment	1 3	X	~
+ewtb.r.059655.3	pleased with	4 5	_	?
+ewtb.r.245160.7	from start to finish	1 2 3 4	_ _ _	~ ~ ~
+ewtb.r.263630.6	do nothing	45 46	X	?
+ewtb.r.234261.3	come back	10 11	_	?
+ewtb.r.358063.2	in * pain	5 7	X	?
+ewtb.r.122270.7	can not wait	7 8 9	_ ~	~ ~
+ewtb.r.160073.16	night out	7 8	_	~
+ewtb.r.361316.2	in no time	6 7 8	_ _	~ ~
+ewtb.r.255261.8	pleased with	3 4	X	?
+ewtb.r.170650.5	make * appointment	10 12	_	~
+ewtb.r.280844.8	felt like	22 23	X	?
+ewtb.r.299148.5	do n't let * fool you	27 28 29 32 33	X X X X	~ ~ ~ ~
+ewtb.r.292841.2	experience * have	25 29	X	_
+ewtb.r.015573.1	buyer beware	1 2	_	~
+ewtb.r.005265.2	nice and quiet	6 7 8	X X	~ ~
+ewtb.r.235423.6	more than	17 18	X	?
+ewtb.r.059005.5	have * problem with	4 6 7	_ X	? X
+ewtb.r.101972.10	take it	4 5	_	X
+ewtb.r.194316.6	look for	20 21	X	~
+ewtb.r.248027.1	on * occasions	5 7	~	?
+ewtb.r.158335.2	a few	25 26	X	_
+ewtb.r.055976.2	quite a bit	6 7 8	X _	? _
+ewtb.r.363685.25	cup of * coffee	13 14 16	~ ~	? ?
+ewtb.r.341397.4	happy with	6 7	_	?
+ewtb.r.008585.4	not only	1 2	X	_
+ewtb.r.294081.8	come back	14 15	X	?
+ewtb.r.083454.2	for free	14 15	_	?
+ewtb.r.090136.3	a few	10 11	X	_
+ewtb.r.031113.3	pretty good	5 6	~	?
+ewtb.r.008585.5	take off	25 26	X	?
+ewtb.r.286172.3	go back	2 3	X	?
+ewtb.r.345182.12	use * on	17 19	_	X
+ewtb.r.294081.14	take off	7 8	_	?
+ewtb.r.288163.6	provide * with	1 3	_	?
+ewtb.r.083563.1	would like to thank	2 3 4 5	_ ~ ~	~ ~ ~
+ewtb.r.096340.1	a few	3 4	X	_
+ewtb.r.100592.5	thanks guy	1 2	_	?
+ewtb.r.116821.6	walk around	12 13	X	_
+ewtb.r.018465.15	go back	4 5	X	?
+ewtb.r.043020.16	stay away	1 2	X	_
+ewtb.r.070730.8	worth it	5 6	X	_
+ewtb.r.107692.7	talk to	6 7	~	?
+ewtb.r.122882.4	talk to	23 24	X	?
+ewtb.r.382073.6	all about	7 8	_	~
+ewtb.r.015148.4	quite a bit	3 4 5	X _	? _
+ewtb.r.135800.9	look at	14 15	~	?
+ewtb.r.134741.2	good job	1 2	X	~
+ewtb.r.333672.3	look at	14 15	X	?
+ewtb.r.285133.1	have * cut	11 14	X	?
+ewtb.r.084373.6	have * problem with	3 5 6	_ _	? X
+ewtb.r.234261.5	no big deal	9 10 11	_ _	~ _
+ewtb.r.164580.2	not that great	21 22 23	X X	~ ?
+ewtb.r.398243.10	hard work	38 39	~	_
+ewtb.r.036133.13	come back	2 3	_	?
+ewtb.r.131458.3	cost effective	27 28	~	?
+ewtb.r.020992.6	get * answer	7 9	_	?
+ewtb.r.112579.2	a long time	7 8 9	X X	~ ~
+ewtb.r.374000.5	go back	4 5	X	?
+ewtb.r.398243.7	work * do	24 26	_	~
+ewtb.r.215460.1	beware of	1 2	~	?
+ewtb.r.165143.3	that say	1 2	X	_
+ewtb.r.283041.3	not only	1 2	X	_
+ewtb.r.280844.9	a little	5 6	X	_
+ewtb.r.243799.2	go in	1 2	X	?
+ewtb.r.336049.7	go back	3 4	X	?
+ewtb.r.055207.5	do a * job	6 7 9	_ _	~ ~
+ewtb.r.241739.5	a bit	10 11	X	_
+ewtb.r.118668.5	get * service	1 3	~	X
+ewtb.r.333672.7	happy with	6 7	_	?
+ewtb.r.036133.20	go wrong	32 33	X	_
+ewtb.r.349020.7	bring * back	3 6	~	_
+ewtb.r.389498.2	wait * for	6 8	X	?
+ewtb.r.332476.4	not only	22 23	X	_
+ewtb.r.382073.8	add to	12 13	~	X
+ewtb.r.169610.2	provide * with	3 5	_	?
+ewtb.r.220214.1	pretty good	6 7	X	?
+ewtb.r.299148.5	a little	22 23	X	_
+ewtb.r.014764.1	do a * job	6 7 9	_ _	~ ~
+ewtb.r.333243.2	work with	1 2	X	~
+ewtb.r.055207.3	do a * job	55 56 58	_ _	~ ~
+ewtb.r.333672.6	as * as possible	8 10 11	X X	~ ~
+ewtb.r.073356.2	high class	4 5	_	~
+ewtb.r.133981.8	move in	19 20	_	~
+ewtb.r.018465.14	for free	7 8	X	?
+ewtb.r.103952.5	get busy	11 12	X	?
+ewtb.r.376503.3	interested in	20 21	~	?
+ewtb.r.229480.6	think of	7 8	X	?
+ewtb.r.135800.11	wrong with	8 9	X	~
+ewtb.r.230176.6	thanks guy	1 2	X	?
+ewtb.r.154658.3	on * menu	14 17	X	~
+ewtb.r.018562.5	and yet	11 12	X	?
+ewtb.r.160073.17	go back	4 5	X	?
+ewtb.r.008585.8	experience * have	10 14	X	_
+ewtb.r.026641.1	do a * job	5 6 8	_ _	~ ~
+ewtb.r.327766.4	if ever	7 8	X	?
+ewtb.r.230176.5	and now	1 2	_	X
+ewtb.r.280170.2	refer to	11 12	X	?
+ewtb.r.181771.5	come in	7 8	~	_
+ewtb.r.290594.11	come and go	24 25 26	X X	_ _
+ewtb.r.156953.3	go to school	2 3 4	_ _	~ ~
+ewtb.r.319816.24	no one	5 6	X	_
+ewtb.r.333243.5	more than	19 20	_	?
+ewtb.r.080221.4	proud of	6 7	X	?
+ewtb.r.374604.1	recommend * to	47 50	~	X
+ewtb.r.043020.15	i figure	2 3	X	?
+ewtb.r.068436.3	a shame	3 4	X	_
+ewtb.r.055207.7	not even	13 14	~	X
+ewtb.r.354474.3	so that	14 15	X	_
+ewtb.r.071278.2	ca n't * enough	2 3 5	X X	? ?
+ewtb.r.148971.17	go to	53 54	~	X
+ewtb.r.292997.5	for free	36 37	~	?
+ewtb.r.351058.3	on * occasions	17 21	X	?
+ewtb.r.280663.6	think of	11 12	_	?
+ewtb.r.349020.10	walk away	2 3	X	?
+ewtb.r.162567.2	massage therapist	8 9	_	~
+ewtb.r.164805.1	close to	8 9	X	?
+ewtb.r.135800.2	take * in	1 4	_	X
+ewtb.r.181748.11	turn to	40 41	X	?
+ewtb.r.329692.6	wait for	18 19	~	?
+ewtb.r.369210.6	in the world	9 10 11	_ _	~ ~
+ewtb.r.194316.2	feel about	34 35	~	?
+ewtb.r.154658.2	even if	10 11	X	?
+ewtb.r.071518.2	take * in	2 7	_	X
+ewtb.r.398243.2	cost effective	29 30	X	?
+ewtb.r.086914.2	you guy	8 9	~	_
+ewtb.r.384229.3	happy with	13 14	X	?
+ewtb.r.308387.1	ask * question	13 15	~	X
+ewtb.r.160442.3	do a * job	2 3 6	_ _	~ ~
+ewtb.r.079007.8	even if	1 2	X	?
+ewtb.r.022273.2	whether * or not	10 14 15	~ ~	? ?
+ewtb.r.128168.11	use * services	6 8	~	X
+ewtb.r.399348.5	come in	12 13	~	_
+ewtb.r.343035.2	happy with	4 5	X	?
+ewtb.r.086839.7	bring * back	18 21	_	~
+ewtb.r.015687.2	do an * job	6 7 9	X X	~ ~
+ewtb.r.308088.2	look to	3 4	~	_
+ewtb.r.345182.12	bring * back	5 9	_	~
+ewtb.r.148971.12	even though	12 13	X	_
+ewtb.r.360937.5	come from	36 37	X	?
+ewtb.r.183518.2	a long time	2 3 4	X X	~ ~
+ewtb.r.306740.3	help with	8 9	X	?
+ewtb.r.015148.5	so long	10 11	X	_
+ewtb.r.200429.2	yell at	3 4	X	~
+ewtb.r.042416.7	go back	6 7	X	?
+ewtb.r.044427.4	have * problem with	2 4 5	X X	? X
+ewtb.r.133601.4	even though	1 2	X	_
+ewtb.r.398243.10	auto repair	21 22	X	_
+ewtb.r.234261.4	come back	41 42	_	?
+ewtb.r.207629.6	be the * for you	20 21 23 24	X X X	? ? ?
+ewtb.r.399348.5	come in	32 33	~	_
+ewtb.r.182354.2	refer to	15 16	X	?
+ewtb.r.034501.8	come back	11 12	_	?
+ewtb.r.055976.7	get to	19 20	X	_
+ewtb.r.290594.3	come in	23 24	X	_
+ewtb.r.276689.4	at night	12 13	_	?
+ewtb.r.059005.3	go in	2 3	~	?
+ewtb.r.225632.7	go to	6 7	~	X
+ewtb.r.290594.2	base on	8 9	_	~
+ewtb.r.232157.6	ask for	17 18	X	~
+ewtb.r.288163.7	be make to	6 7 8	X X	_ _
+ewtb.r.269560.5	fall off	3 4	~	?
+ewtb.r.017345.10	go back	4 5	X	?
+ewtb.r.010393.5	be the * for you	21 22 24 25	X X X	? ? ?
+ewtb.r.247226.9	beware of	1 2	X	?
+ewtb.r.211797.3	fall off	8 9	X	?
+ewtb.r.142081.5	so that	10 11	X	_
+ewtb.r.229410.8	get to	5 6	~	_
+ewtb.r.127252.5	exceed * expectation	5 7	X	?
+ewtb.r.134622.1	happy with	17 18	X	?
+ewtb.r.211933.1	help with	4 5	X	?
+ewtb.r.283041.6	a few	4 5	X	_
+ewtb.r.135800.6	bring * back	5 7	~	_
+ewtb.r.276689.7	a few	6 7	X	_
+ewtb.r.159485.1	top quality	15 16	X	?
+ewtb.r.329991.3	happy with	4 5	~	?
+ewtb.r.146820.2	have * experience	3 6	X	_
+ewtb.r.164937.2	small town	26 27	_	?
+ewtb.r.279070.4	well worth it	13 14 15	~ _	? _
+ewtb.r.200957.2	go in	13 14	_	?
+ewtb.r.377347.10	have * to offer	8 10 11	X X	_ _
+ewtb.r.333243.2	work with	9 10	X	~
+ewtb.r.030811.3	hair style	6 7	_	~
+ewtb.r.349020.9	who know	1 2	_	?
+ewtb.r.280663.6	meet with	19 20	_	?
+ewtb.r.107692.9	deal with	8 9	~	_
+ewtb.r.216456.8	talk to	6 7	X	?
+ewtb.r.024132.2	do a * job	8 9 12	_ _	~ ~
+ewtb.r.095040.5	look for	8 9	X	~
+ewtb.r.042416.7	can not wait	2 3 4	_ _	~ ~
+ewtb.r.091704.8	not even	10 11	X	_
+ewtb.r.154658.3	daily special	5 6	~	?
+ewtb.r.140302.2	do a * job	16 17 19	_ _	~ ~
+ewtb.r.043020.19	five star	12 13	X	_
+ewtb.r.042012.2	if ever	1 2	_	?
+ewtb.r.227515.4	more than	8 9	_	?
+ewtb.r.374604.2	leave a lot to be desire	16 17 18 19 20 21	~ _ ~ _ _	_ _ _ _ _
+ewtb.r.011257.2	answer * phone	13 15	~	X
+ewtb.r.220214.9	seem like	11 12	_	?
+ewtb.r.173944.5	good job	1 2	X	~
+ewtb.r.211797.15	even if	4 5	_	?
+ewtb.r.200429.5	seem like	1 2	X	?
+ewtb.r.121556.3	pleased with	4 5	X	?
+ewtb.r.294081.9	wait for	4 5	_	?
+ewtb.r.398152.5	be the * for you	18 19 21 22	X X X	? ? ?
+ewtb.r.116821.13	do * research	6 8	X	_
+ewtb.r.294978.3	wrong with	2 3	_	~
+ewtb.r.087176.2	trust me	12 13	X	_
+ewtb.r.376320.2	have * experience	9 13	X	_
+ewtb.r.178726.2	highly recommend	1 2	X	~
+ewtb.r.183518.10	on the * side	12 13 15	_ _	X X
+ewtb.r.093655.2	not only	1 2	X	_
+ewtb.r.315763.6	have * problem with	4 6 7	_ _	? X
+ewtb.r.094621.6	more than	8 9	X	?
+ewtb.r.086914.2	refer to	2 3	~	?
+ewtb.r.120335.7	richmond ukrops	7 8	_	X
+ewtb.r.010820.2	come from	24 25	X	?
+ewtb.r.377347.9	come from	11 12	_	?
+ewtb.r.122270.2	provide * service	10 15	_	X
+ewtb.r.048363.13	trust me	1 2	~	_
+ewtb.r.122564.4	do nothing	17 18	~	?
+ewtb.r.374604.1	write * review	8 10	~	X
+ewtb.r.229410.3	refer to	3 4	X	?
+ewtb.r.103952.3	time and time again	5 6 7 8	_ X X	_ _ _
+ewtb.r.314974.6	on * way	8 10	X	_
+ewtb.r.095523.3	even if	8 9	X	?
+ewtb.r.181771.4	sales manager	16 17	X	_
+ewtb.r.020992.8	argue with	5 6	X	~
+ewtb.r.110441.16	well do	1 2	X	_
+ewtb.r.334928.2	high quality	8 9	X	~
+ewtb.r.326649.5	look at	2 3	X	?
+ewtb.r.169610.2	come with	9 10	X	?
+ewtb.r.124552.3	on the * side	3 4 6	_ _	X X
+ewtb.r.391012.7	speak to	3 4	X	?
+ewtb.r.017235.3	have to say	11 12 13	~ ~	X X
+ewtb.r.086839.2	auto repair	12 13	X	_
+ewtb.r.279437.1	close to	4 5	_	?
+ewtb.r.101864.4	walk away	6 7	_	?
+ewtb.r.216281.5	give * price	12 16	~	X
+ewtb.r.084373.1	pleased with	4 5	_	?
+ewtb.r.229410.3	lack of	31 32	~	X
+ewtb.r.290594.7	look at	6 7	~	?
+ewtb.r.288100.5	get * on the phone	26 29 30 31	_ _ _	? ? ?
+ewtb.r.283041.4	a little	7 8	X	_
+ewtb.r.374604.1	speak to	23 24	~	?
+ewtb.r.206303.4	happy with	18 19	X	?
+ewtb.r.229410.9	a couple	4 5	X	_
+ewtb.r.263630.5	do so	26 27	X	_
+ewtb.r.034501.6	talk with	15 16	~	?
+ewtb.r.290594.9	have * doubt	18 20	X	_
+ewtb.r.323248.4	repeat customer	4 5	X	~
+ewtb.r.110441.12	portion * generous	2 4	_	?
+ewtb.r.225632.9	work hard	22 23	X	~
+ewtb.r.042012.6	luv * show	13 18	_	X
+ewtb.r.332105.3	care about	18 19	~	X
+ewtb.r.376320.6	not to mention	10 11 12	X X	_ _
+ewtb.r.319816.23	wait for	22 23	~	?
+ewtb.r.371300.3	have time	5 6	~	?
+ewtb.r.396874.1	restore * faith in	1 3 4	X _	~ _
+ewtb.r.103878.1	you guy	1 2	~	_
+ewtb.r.035993.2	have * problem with	2 4 5	_ _	? X
+ewtb.r.122270.7	go back	11 12	X	?
+ewtb.r.142081.5	go back	26 27	X	?
+ewtb.r.319816.12	wait for	5 6	X	?
+ewtb.r.158740.2	more than	7 8	_	?
+ewtb.r.326649.8	just like	13 14	X	~
+ewtb.r.361545.4	bring * in	38 40	X	_
+ewtb.r.398243.3	a few	15 16	X	_
+ewtb.r.035899.5	a few	29 30	X	_
+ewtb.r.200429.3	argue with	37 38	X	~
+ewtb.r.272836.2	refer to	17 18	_	?
+ewtb.r.363873.6	come back	17 18	X	?
+ewtb.r.251774.8	ca n't * enough	2 3 6	~ ~	? ?
+ewtb.r.211797.21	seem like	4 5	X	?
+ewtb.r.280340.6	portion * generous	2 4	X	?
+ewtb.r.369087.9	bring * back	5 8	X	~
+ewtb.r.178726.8	go back	3 4	_	?
+ewtb.r.127157.4	a little	4 5	X	_
+ewtb.r.079375.9	and yet	7 8	_	?
+ewtb.r.063690.5	come back	4 5	X	?
+ewtb.r.346627.2	have * experience	4 7	X	_
+ewtb.r.346627.4	listen to	19 20	X	~
+ewtb.r.263630.6	in the middle of	25 26 27 28	X X X	_ _ _
+ewtb.r.190256.3	a few	3 4	X	_
+ewtb.r.329692.7	disappointed with	12 13	_	?
+ewtb.r.071650.7	back to	1 2	_	X
+ewtb.r.215460.3	get in touch with	13 14 15 16	_ _ _	~ _ ~
+ewtb.r.194313.2	pizza place	5 6	X	?
+ewtb.r.134622.3	have * to say	2 5 6	X X	? ?
+ewtb.r.207629.6	look for	12 13	X	~
+ewtb.r.257296.4	come back	1 2	X	?
+ewtb.r.187266.8	go back	8 9	X	?
+ewtb.r.165018.5	the hilton	26 27	_	?
+ewtb.r.198455.2	thanks again	27 28	X	_
+ewtb.r.086839.5	take * in	2 5	_	X
+ewtb.r.245160.6	as * as possible	19 21 22	X ~	~ ~
+ewtb.r.036753.4	wrong with	16 17	_	~
+ewtb.r.376503.2	must be do something right	31 32 33 34 35	X X X X	~ ~ ~ ~
+ewtb.r.308088.3	deal with	5 6	~	_
+ewtb.r.154157.5	go back	1 2	X	?
+ewtb.r.160442.3	go back	16 17	X	?
+ewtb.r.257296.5	proud of	11 12	~	?
+ewtb.r.128636.8	exceed * expectation	3 5	X	?
+ewtb.r.048363.10	think of	2 3	~	?
+ewtb.r.229410.4	i figure	1 2	_	?
+ewtb.r.010433.6	talk with	7 8	X	?
+ewtb.r.039856.4	talk down to	2 3 4	_ _	_ ~
+ewtb.r.063754.2	work on	2 3	_	~
+ewtb.r.341397.5	great job	1 2	~	X
+ewtb.r.160073.7	go back	13 14	X	?
+ewtb.r.086839.11	put * in	19 25	_	X
+ewtb.r.094621.3	local business	26 27	X	?
+ewtb.r.201972.2	come in to town	2 3 4 5	_ X X 	~ ~ ~
+ewtb.r.190256.2	have * problem with	2 4 5	X X	? X
+ewtb.r.272836.3	so that	17 18	X	_
+ewtb.r.345182.11	pay for	9 10	_	X
+ewtb.r.324337.1	even if	8 9	X	?
+ewtb.r.097548.1	get busy	3 4	X	?
+ewtb.r.077213.3	feel about	5 6	X	?
+ewtb.r.043020.3	wait for	14 15	X	?
+ewtb.r.332068.1	in * pain	6 11	_	?
+ewtb.r.207629.3	would like	10 11	_	X
+ewtb.r.363234.5	look to	9 10	X	_
+ewtb.r.363873.7	talk to	9 10	X	?
+ewtb.r.232157.5	or so	10 11	X	_
+ewtb.r.324337.4	even if	9 10	X	?
+ewtb.r.319816.11	go back	5 6	X	?
+ewtb.r.149741.1	quite a bit	7 8 9	X _	? _
+ewtb.r.146820.3	fast and friendly	3 4 5	X X	~ ~
+ewtb.r.358063.1	in * pain	9 12	X	?
+ewtb.r.209465.3	the same	7 8	_	X
+ewtb.r.085980.2	disappointed with	3 4	X	?
+ewtb.r.036133.18	keep say	2 3	X	?
+ewtb.r.310032.5	wait * for	3 7	~	?
+ewtb.r.223040.1	talk to	9 10	X	?
+ewtb.r.192713.2	felt like	2 3	X	?
+ewtb.r.116821.15	want to	3 4	_	X
+ewtb.r.162567.4	not only	3 4	X	_
+ewtb.r.121342.4	even though	12 13	X	_
+ewtb.r.330966.3	not so	36 37	~	X
+ewtb.r.105326.1	pizza place	3 4	_	?
+ewtb.r.238839.5	go back	13 14	X	?
+ewtb.r.035899.5	exceed * expectation	23 25	~	?
+ewtb.r.191597.5	get busy	1 2	_	?
+ewtb.r.206303.3	good fun	8 9	~	?
+ewtb.r.039383.7	like it	9 10	_	X
+ewtb.r.004574.5	ask for	2 3	X	~
+ewtb.r.118668.3	go in	1 2	X	?
+ewtb.r.247226.5	go back	1 2	_	?
+ewtb.r.269560.7	go back	4 5	X	?
+ewtb.r.241855.4	compare to	2 3	X	_
+ewtb.r.275919.3	have * problem	3 6	_	?
+ewtb.r.036133.19	i might add	20 21 22	_ _	~ ~
+ewtb.r.077213.4	not that great	12 13 14	~ ~	~ ?
+ewtb.r.345182.13	do nothing	10 11	X	?
+ewtb.r.159485.1	do * work	22 26	X	_
+ewtb.r.077298.4	walk out	9 10	X	_
+ewtb.r.292841.7	ca n't * enough	3 4 6	X X	? ?
+ewtb.r.369210.4	no problem	5 6	_	?
+ewtb.r.131965.2	pleased with	7 8	_	?
+ewtb.r.349020.12	as * as possible	3 5 6	X X	~ ~
+ewtb.r.083563.3	many thanks	1 2	_	~
+ewtb.r.363685.34	go back	3 4	X	?
+ewtb.r.074896.5	come in	2 3	X	_
+ewtb.r.037794.3	come back	4 5	X	?
+ewtb.r.043020.1	fix * problem	9 11	_	X
+ewtb.r.160073.19	come from	20 21	_	?
+ewtb.r.148971.15	do nothing	27 28	X	?
+ewtb.r.211797.3	felt like	2 3	_	?
+ewtb.r.232157.6	even though	1 2	X	_
+ewtb.r.160073.3	take * a while	3 5 6	~ _	? ?
+ewtb.r.119026.2	more than	8 9	X	?
+ewtb.r.348247.7	do business	15 16	~	_
+ewtb.r.142081.3	shop * around	2 4	_	X
+ewtb.r.038523.3	thanks again	1 2	X	_
+ewtb.r.210019.3	have * problem with	4 6 7	_ X	? X
+ewtb.r.117115.3	write * review	17 19	_	X
+ewtb.r.280844.6	work with	2 3	X	~
+ewtb.r.101864.2	service * receive	7 9	~	?
+ewtb.r.263630.5	speak to	18 19	X	?
+ewtb.r.026883.12	be up	31 32	X	_
+ewtb.r.045972.2	happy with	13 14	X	?
+ewtb.r.160073.16	look for	3 4	X	~
+ewtb.r.001961.3	have * check	1 5	~	X
+ewtb.r.106150.3	go to school	5 6 7	_ _	~ ~
+ewtb.r.382257.2	not only	4 5	X	_
+ewtb.r.280170.1	ca n't * enough	1 2 4	X X	? ?
+ewtb.r.248616.1	take * in	1 4	_	X
+ewtb.r.093655.3	on the * side	43 44 46	_ _	X X
+ewtb.r.153921.4	on the * side	6 7 9	_ _	X X
+ewtb.r.186284.2	recommend to	16 17	~	X
+ewtb.r.181748.5	interested in	4 5	X	?
+ewtb.r.053248.18	do a * job	18 19 21	_ _	~ ~
+ewtb.r.122514.2	to do	8 9	X	_
+ewtb.r.164805.4	meet with	8 9	X	?
+ewtb.r.039856.5	these guy	2 3	~	X
+ewtb.r.071650.7	go in	14 15	X	?
+ewtb.r.156953.11	go back	4 5	X	?
+ewtb.r.308088.4	deal with	8 9	~	_
+ewtb.r.162702.2	a pleasure	20 21	_	?
+ewtb.r.018465.22	stay away	1 2	X	_
+ewtb.r.262441.1	provide * with	34 36	X	?
+ewtb.r.315763.5	close to	9 10	_	?
+ewtb.r.011806.2	get * do	4 6	X	_
+ewtb.r.062167.5	need * help	10 12	~	X
+ewtb.r.148971.17	be the * for you	59 60 62 63	X X X	? ? ?
+ewtb.r.210066.4	no problem	1 2	~	?
+ewtb.r.086839.3	take * in	2 5	_	X
+ewtb.r.063963.3	the fact that	5 6 7	X X	_ _
+ewtb.r.248616.2	take * in	9 11	_	X
+ewtb.r.398243.10	small town	6 7	X	?
+ewtb.r.363685.28	have * problem	8 10	_	?
+ewtb.r.181748.9	a few	22 23	X	_
+ewtb.r.085424.5	good job	1 2	_	~
+ewtb.r.100592.3	have * problem	6 10	_	?
+ewtb.r.086839.2	experience * have	5 9	X	_
+ewtb.r.122270.6	work * do	19 21	_	~
+ewtb.r.122882.4	rather than	27 28	X	_
+ewtb.r.363685.7	help with	8 9	~	?
+ewtb.r.099279.2	answer * question	1 4	~	X
+ewtb.r.039856.5	be * rude	8 10	_	X
+ewtb.r.121987.3	nice and	16 17	~	X
+ewtb.r.112579.7	pork and rice	18 19 20	~ ~	X X
+ewtb.r.010820.7	move out	3 4	X	_
+ewtb.r.349020.12	stay away	1 2	X	_
+ewtb.r.160073.14	get * out	6 9	_	X
+ewtb.r.232157.5	and yet	13 14	X	?
+ewtb.r.124163.5	dental work	29 30	X	_
+ewtb.r.187266.10	high quality	14 15	X	~
+ewtb.r.398152.2	bring * in	2 5	X	_

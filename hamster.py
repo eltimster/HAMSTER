@@ -53,7 +53,7 @@ def fix_line(has_started, annotation_tag, bio_tag, prev_index, line, output_file
 #	elif culled_bio_tag.startswith('\xab'):
 #		culled_bio_tag = culled_bio_tag.replace('\xab','')
 
-	output_f = io.open(output_file, 'a')
+	#output_f = io.open(output_file, 'a')
 
 #	print([culled_bio_tag], file = output_f)
 
@@ -184,7 +184,10 @@ def process_fixes(args, streusle_file, fix_file, output_file):
 							if args['hard_as_original']:
 								fix_line(has_started, end_type_list[index-1], 'to_original', prev_index, line, output_file)
 							elif args['hard_as_nonMWE']:
-								fix_line(has_started, end_type_list[index-1], 'O', prev_index, line, output_file)
+                                                                if len(end_type_list) > index and end_type_list[index] != "^":
+                                                                        fix_line(has_started, "", 'B', "0", line, output_file)
+                                                                else:
+                                                                        fix_line(has_started, end_type_list[index-1], 'O', prev_index, line, output_file)
 							elif args['hard_as_weak']:
 								fix_line(has_started, '~', u'Ĩ', prev_index, line, output_file)
 							else: #keep_hard
@@ -196,7 +199,9 @@ def process_fixes(args, streusle_file, fix_file, output_file):
 				if has_started:
 					if line[0] != '':	# ignore blank line
 						if int(line[0]) in range(int(indicies_list[0]), int(indicies_list[-1])):  #gappy case only, convert to o or O
-							if str(line[0]) not in indicies_list and str(line[8]) == id:
+							if str(line[0]) not in indicies_list:
+                                                                
+                                                                #print(line)
 								#indicies_list = map(int, indicies_list)
 								indicies_list1 = map(int, indicies_list)
 								lower_indice = bisect.bisect(indicies_list1, int(line[0]))
@@ -218,7 +223,7 @@ def process_fixes(args, streusle_file, fix_file, output_file):
 									fix_line(has_started, end_type_list[indicies_list1.index(indicies_list1[lower_indice-1])], 'to_original', prev_index, line, output_file)
 								else:
 									fix_line(has_started, end_type_list[indicies_list1.index(indicies_list1[lower_indice-1])], 'convert_to_lower_case', prev_index, line, output_file)	# has_started = True
-														
+								#print(line)						
 
         f1.close()
         fout = codecs.open(output_file,"w",encoding="utf-8")
